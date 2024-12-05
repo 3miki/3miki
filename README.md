@@ -30,7 +30,7 @@ Transpic is a **visual translation app** for language learners and travellers. I
     • Feature: image-to-text translation using AI model
     • Technology: Python, Streamlit, Gemini API
 
-![Transpic](/transpic.png)
+![Transpic](transpic1.png) ![Transpic](transpic2.png)
 
 ### [Swarm Smartwatch App](https://github.com/3miki/swarm-fitbit-alarm)
 Swarm is a **Fitbit app** that allows users trigger a **discreet alarm to notify emergency contacts** such as family members or friends, in case of danger. With just a press of a button, the app sends an SMS with the user’s GPS location and a Google Maps link for quick assistance.
@@ -38,4 +38,4 @@ Swarm is a **Fitbit app** that allows users trigger a **discreet alarm to notify
     • Feature: SMS notification with GPS location
     • Technology: JavaScript, Node.js, Express, Fitbit SDK, Twilio API
 
-![Swarm](/swarm.png)
+![Swarm](swarm.png)
