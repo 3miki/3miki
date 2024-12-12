@@ -45,7 +45,7 @@ The app leverages advanced AI technologies including conversational AI and text-
 <br>
 I contributed to the backend, integrating APIs to bring these features to life!
 
-	•	Features: Story summarisation, translation, text-to-speech narration, image-to-video processing
-	•	Technologies: Python, FastAPI, asyncio, AI model APIs
+	• Features: Story summarisation, translation, text-to-speech narration, image-to-video processing
+	• Technologies: Python, FastAPI, asyncio, AI model APIs
 
 ![Ryoko History 1](ryoko1.png)![Ryoko History 2](ryoko2.png)
