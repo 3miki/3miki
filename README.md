@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 I’m Miki, a Full-Stack Developer based in London, UK. 🇬🇧 
-I have a mix of experience in tech, sales and marketing, which helps me solve problems and create user-friendly software.
+I have a mix of experience in tech, sales and marketing, which helps me uncover insights, solve problems and create user-friendly software.
 
 🎓 Master’s Graduate in Computer Science from the UK
 <br>
@@ -13,10 +13,9 @@ I’m now looking for opportunities in tech where I can apply my skills and expe
 
 ### What I Work With
 
-	• Frontend: JavaScript, HTML, CSS, Dart
-	• Backend: Python, Node.js
-	• Databases: SQL
-	• Other Tools: Git, Docker, Cloudflare
+	• Frontend: JavaScript, TypeScript, React, Next.js, HTML, CSS, Flutter
+	• Backend: Python, Node.js, FastAPI, Langchain
+	• Other Tools: Docker, Cloudflare, Supabase, SQL(PostgreSQL, Oracle, etc.)
 
 Check out my portfolio [here](https://mikistation.com/) 👀
 
