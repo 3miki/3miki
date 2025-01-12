@@ -40,7 +40,7 @@ Swarm is a **smartwatch app** that allows users to trigger a **discreet alarm to
 ### [Ryoko History](https://github.com/ben-xD/ryoko-history) - Won 3rd place at AI Hackathon
 Ryoko History is an **AI video storyteller** bridges language barriers to help users share travel stories effortlessly. Users can upload photos and chat with a conversational AI agent to share their travel experiences, which are then transformed into translated videos. 
 <br>
-The app leverages advanced AI technologies including conversational AI and text-to-speech ([Elevenlab](https://elevenlabs.io/)), image-to-video ([Luma AI](https://lumalabs.ai/)), and GPT-4 ([Open AI](https://openai.com/)) models to deliver immersive storytelling with engaging visuals and narrated translations. 
+The app leverages advanced AI technologies including conversational AI and text-to-speech ([Elevenlabs](https://elevenlabs.io/)), image-to-video ([Luma AI](https://lumalabs.ai/)), and GPT-4 ([Open AI](https://openai.com/)) models to deliver immersive storytelling with engaging visuals and narrated translations. 
 <br>
 I contributed to the backend, integrating APIs to bring these features to life!
 
