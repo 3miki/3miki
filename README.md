@@ -13,9 +13,9 @@ I’m now looking for opportunities in tech where I can apply my skills and expe
 
 ### What I Work With
 
-	• Frontend: JavaScript, TypeScript, React, Next.js, HTML, CSS, Flutter
-	• Backend: Python, Node.js, FastAPI, Langchain
-	• Other Tools: Docker, Cloudflare, Supabase, SQL(PostgreSQL, Oracle, etc.)
+	• Frontend: JavaScript, TypeScript, React, Next.js
+	• Backend: Python, FastAPI, Django, Langchain, Node.js
+	• Other Tools: PostgreSQL, Supabase, AWS, Cloudflare, Docker
 
 Check out my portfolio [here](https://mikistation.com/) 👀
 
